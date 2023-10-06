@@ -1,0 +1,5 @@
+
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+   <rect x="75" y="25" width="150" height="150" fill="#36220b" />
+   <text x="50%" y="59%" font-size="60" text-anchor="middle" fill="#b8884e">GEN</text>
+</svg>
