@@ -23,13 +23,9 @@ With this project, I learned how SVGs work and I was able to render code stored 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![SVG circle](images/MDcircle.png)
+![SVG triangle](images/MDtriangle.png)
+![SVG square](images/MDsquare.png)
 
 ## Credits
 
